@@ -1,2 +1,2 @@
 # dark-nav-bar
-dark navbar example
+simple dark navbar example with HTML & CSS
